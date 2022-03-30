@@ -55,4 +55,4 @@ pip install tables
 pip install scipy
 pip install matplotlib
 pip install pandas
-pip install co_sim_platform/opendssdirect3.7
+pip install gold/opendssdirect3.7
